@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>početna</loc>
+		<lastmod>2018-12-06</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1</priority> 
+	</url>
+	<url>
+		<loc>prodavnica</loc>
+		<lastmod>2018-12-06</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority> 
+	</url>
+	<url>
+		<loc>galerija</loc>
+		<lastmod>2018-12-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority> 
+	</url>
+	<url>
+		<loc>radnoVreme</loc>
+		<lastmod>2018-12-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.75</priority> 
+	</url>
+	<url>
+		<loc>oAutoru</loc>
+		<lastmod>2018-12-06</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.6</priority> 
+	</url>
+ </urlset >

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ <rss version="2.0"> 
+	 <channel>
+		<item>
+			<title>Novogodišnja ponuda</title>
+			<description>Poštovani kupci, cene su snižene zbog predstojećih praznika.</description>
+			<link>prodavnica</link>
+		</item> 
+	 </channel>
+ </rss>
